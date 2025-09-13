@@ -8,9 +8,9 @@ This project is a fork of the original RAFT implementation by Teed & Deng (2020)
 
 ## My Contributions
 - Modified loss functions in `train.py` 
-- Tested and compared: [list the specific loss functions you tried]
-- Training results and analysis: [your findings]
+- Tested and compared loss functions
+- Training results and analysed
 
 ## Changes Made
 - **File modified**: `train.py`
-- **Specific changes**: [briefly describe what loss functions you implemented/compared]
+
